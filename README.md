@@ -22,8 +22,8 @@ to run and can be used to support the content of this
 document.
 
 0 - Network with auxiliary losses and weight
-sharing
-1 - Network with weight sharing
-2 - Baseline network
-3 - Run all networks, from baseline to weight
+sharing 
+1 - Network with weight sharing 
+2 - Baseline network 
+3 - Run all networks, from baseline to weight 
 sharing with auxiliary losses.
